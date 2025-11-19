@@ -1,0 +1,26 @@
+body{
+            background-color: #f88412;
+                    display: flex;
+                            justify-content: center;
+                                    font-family: Arial;
+                                            align-items: center;
+                                                    height: 100vh;
+                                                          }
+                                                                h1{
+                                                                        font-family: cursive;
+                                                                              }
+                                                                                    input {
+                                                                                        padding: 20px;
+                                                                                            border-radius: 20px;
+                                                                                                margin-bottom: 15px;
+                                                                                                }
+
+                                                                                                button {
+                                                                                                    padding: 10px 20px;
+                                                                                                        border: none;
+                                                                                                            font-weight: bold;
+                                                                                                                border-radius: 20px;
+                                                                                                                    cursor: pointer;
+                                                                                                                        margin-top: 5px;
+                                                                                                                        }
+}
